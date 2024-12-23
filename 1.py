@@ -9,3 +9,7 @@ print(a-b)
 
 #Multiplication
 print(a*b)
+
+#Division
+#This will print the quotient
+print(a/b)
