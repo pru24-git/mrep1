@@ -9,6 +9,7 @@ print(a-b)
 
 #Multiplication
 print(a*b)
+print(a**b)
 
 #Division
 #This will print the quotient
