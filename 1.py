@@ -14,8 +14,8 @@ print("Exponential:",a**b)
 #Division
 #This will print the quotient
 print("Division:",a/b)
-print(a//b)
+print("Division-2:",a//b)
 
-#Remainder
+#Remainder-
 #Will print the remainder
 print(a-b)
