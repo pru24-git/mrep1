@@ -18,4 +18,4 @@ print("Division-2:",a//b)
 
 #Remainder-
 #Will print the remainder
-print(a-b)
+print("Remainder:",a-b)
